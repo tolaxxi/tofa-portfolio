@@ -1,6 +1,10 @@
+import Hero from "./pages/Hero/Hero"
+
 const App = () => {
   return (
-    <div>App</div>
+    <>
+    <Hero/>
+    </>
   )
 }
 export default App
